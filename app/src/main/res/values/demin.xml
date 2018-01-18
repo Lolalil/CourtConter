@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="cool">7dp</dimen>
+<dimen name="upAndDown">3dp</dimen>
+    <dimen name="side">24dp</dimen>
+</resources>

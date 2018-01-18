@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Girls Power</string>
+    <string name="right">Right!</string>
+    <string name="wrong">Wrong!</string>
+    <string name="bonus">Bonus</string>
+    <string name="shahar">The Winner is Shahar! </string>
+    <string name="shira">The Winner is Shira!</string>
+    <string name="tie">It\'s a tie! Play again!</string>
+</resources>
